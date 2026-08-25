@@ -23,7 +23,7 @@ Plugins incluídos:
 - **Linter**, configurado para uso manual, sem alterar notas ao salvar;
 - **Git**, também manual, sem commits ou sincronização automáticos.
 
-As versões armazenadas no vault são compatíveis com Obsidian 1.8.9 e podem ser atualizadas pela tela de plugins quando o aplicativo for atualizado.
+As versões armazenadas no vault são compatíveis com o runtime Obsidian 1.13.7 e podem ser atualizadas pela tela de plugins.
 
 ## Organização
 

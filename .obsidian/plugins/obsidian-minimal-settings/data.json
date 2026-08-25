@@ -3,7 +3,6 @@
   "darkStyle": "minimal-dark-black",
   "lightScheme": "minimal-default-light",
   "darkScheme": "minimal-default-dark",
-  "editorFont": "JetBrains Mono",
   "lineHeight": 1.6,
   "lineWidth": 42,
   "lineWidthWide": 54,
@@ -29,6 +28,5 @@
   "underlineExternal": true,
   "folding": true,
   "lineNumbers": false,
-  "readableLineLength": false,
-  "devBlockWidth": false
+  "readableLineLength": true
 }
