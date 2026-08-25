@@ -1,0 +1,20 @@
+{
+  "commitMessage": "vault: atualização manual em {{date}}",
+  "autoCommitMessage": "vault: backup em {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoSaveInterval": 0,
+  "autoPushInterval": 0,
+  "autoPullInterval": 0,
+  "autoPullOnBoot": false,
+  "autoBackupAfterFileChange": false,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "showErrorNotices": true,
+  "showStatusBar": true,
+  "showBranchStatusBar": true,
+  "showFileMenu": true,
+  "refreshSourceControl": true,
+  "refreshSourceControlTimer": 7000,
+  "syncMethod": "merge",
+  "mergeStrategy": "none"
+}

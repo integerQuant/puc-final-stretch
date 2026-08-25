@@ -1,0 +1,12 @@
+{
+  "accentColor": "#2dd4bf",
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "oled-ligatures"
+  ],
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "theme": "obsidian"
+}

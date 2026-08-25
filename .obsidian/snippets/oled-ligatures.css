@@ -1,0 +1,29 @@
+/*
+OLED + ligatures
+Keeps the canvas genuinely black and enables contextual/common ligatures.
+The font falls back safely when JetBrains Mono is unavailable.
+*/
+
+body {
+  --font-interface-theme: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+  --font-text-theme: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+  --font-monospace-theme: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+  font-feature-settings: "calt" 1, "liga" 1;
+  font-variant-ligatures: common-ligatures contextual;
+}
+
+.theme-dark {
+  --background-primary: #000000;
+  --background-primary-alt: #000000;
+  --background-secondary: #030303;
+  --background-secondary-alt: #080808;
+  --background-modifier-border: #1c1c1c;
+}
+
+.markdown-source-view.mod-cm6 .cm-scroller,
+.markdown-preview-view,
+code,
+pre {
+  font-feature-settings: "calt" 1, "liga" 1;
+  font-variant-ligatures: common-ligatures contextual;
+}
