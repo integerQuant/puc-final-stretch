@@ -5,8 +5,7 @@
   "enabledCssSnippets": [
     "oled-ligatures"
   ],
-  "interfaceFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "JetBrains Mono",
+  "textFontFamily": "Literata",
   "theme": "obsidian"
 }

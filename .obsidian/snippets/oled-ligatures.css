@@ -5,11 +5,9 @@ The font falls back safely when JetBrains Mono is unavailable.
 */
 
 body {
-  --font-interface-theme: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
-  --font-text-theme: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+  --font-interface-theme: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", sans-serif;
+  --font-text-theme: "Literata", Georgia, "Times New Roman", serif;
   --font-monospace-theme: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
-  font-feature-settings: "calt" 1, "liga" 1;
-  font-variant-ligatures: common-ligatures contextual;
 }
 
 .theme-dark {
@@ -21,7 +19,12 @@ body {
 }
 
 .markdown-source-view.mod-cm6 .cm-scroller,
-.markdown-preview-view,
+.markdown-preview-view {
+  font-feature-settings: "kern" 1, "liga" 1;
+  font-optical-sizing: auto;
+  font-variant-ligatures: common-ligatures;
+}
+
 code,
 pre {
   font-feature-settings: "calt" 1, "liga" 1;

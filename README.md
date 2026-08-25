@@ -9,11 +9,11 @@ Este repositório é um vault do [Obsidian](https://obsidian.md/) para organizar
 3. Selecione a raiz deste repositório.
 4. Comece pela nota [[00 - Início]].
 
-Na primeira abertura, confirme a ativação dos plugins comunitários e recarregue a janela. O vault já inclui uma configuração portátil do Obsidian com tema OLED, ligaturas e plugins de produtividade. A fonte recomendada é [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
+Na primeira abertura, confirme a ativação dos plugins comunitários e recarregue a janela. O vault já inclui uma configuração portátil do Obsidian com tema OLED, ligaturas e plugins de produtividade. A combinação recomendada é [Literata](https://fonts.google.com/specimen/Literata) para leitura e [JetBrains Mono](https://www.jetbrains.com/lp/mono/) para código.
 
 ## Obsidian
 
-A interface usa o tema **Minimal** em modo escuro *true black*, com JetBrains Mono e ligaturas contextuais. O atalho `Cmd/Ctrl + Shift + O` abre a busca do Omnisearch.
+A interface usa o tema **Minimal** em modo escuro *true black*, fonte nativa do sistema nos controles, Literata nas notas e JetBrains Mono apenas em código e metadados. O atalho `Cmd/Ctrl + Shift + O` abre a busca do Omnisearch.
 
 Plugins incluídos:
 
