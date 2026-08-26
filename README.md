@@ -40,6 +40,8 @@ Cada matéria pode conter:
 - `Leituras`: textos indicados e notas de leitura;
 - `Fichamentos`: fichamentos bibliográficos ou temáticos;
 - `Trabalhos`: avaliações, trabalhos e entregas;
+- `Listas`: exercícios avaliativos e controle de entregas;
+- `Planilhas`: modelos e cálculos próprios em Excel; arquivos originais do professor permanecem em `Anexos`;
 - `Revisões`: sínteses para provas e fechamento do curso;
 - `Anexos`: planos de ensino, PDFs, imagens e outros documentos-fonte.
 

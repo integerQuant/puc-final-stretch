@@ -14,6 +14,7 @@ Este é o ponto de entrada do vault para os semestres finais do curso.
 ## Semestre atual
 
 - [[01 - Matérias/História do Pensamento Econômico/00 - Índice|História do Pensamento Econômico]] — Prof. Rubens R. Sawaya, 2026.2
+- [[01 - Matérias/Decisão em Finanças e Introdução à Análise de Risco/00 - Índice|Decisão em Finanças e Introdução à Análise de Risco]] — Prof. Marcel Guedes Leite, 2026.2
 
 ## Captura rápida
 
@@ -29,4 +30,3 @@ Este é o ponto de entrada do vault para os semestres finais do curso.
 ## Matérias concluídas
 
 _Nenhuma matéria arquivada ainda._
-

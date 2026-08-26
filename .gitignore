@@ -13,3 +13,7 @@ Thumbs.db
 *.temp
 *~
 
+# Arquivos temporários do Microsoft Office
+~$*.xlsx
+~$*.xlsm
+~$*.xls
