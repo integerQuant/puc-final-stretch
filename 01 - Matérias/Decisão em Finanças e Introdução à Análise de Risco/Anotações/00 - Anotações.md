@@ -12,6 +12,8 @@ tags:
 
 Notas pesquisadas e enriquecidas, derivadas dos registros em [[01 - Matérias/Decisão em Finanças e Introdução à Análise de Risco/Anotações RAW/00 - Anotações RAW|Anotações RAW]].
 
-_Nenhuma nota enriquecida criada ainda._
+## 2026.2
+
+- [[01 - Matérias/Decisão em Finanças e Introdução à Análise de Risco/Anotações/2026-08-25 - Fluxo de caixa, valor do dinheiro e taxas de juros|2026-08-25 — Fluxo de caixa, valor do dinheiro e taxas de juros]]
 
 [[01 - Matérias/Decisão em Finanças e Introdução à Análise de Risco/00 - Índice|← Voltar para a matéria]]

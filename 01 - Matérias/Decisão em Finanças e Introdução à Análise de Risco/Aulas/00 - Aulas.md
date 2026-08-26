@@ -16,7 +16,7 @@ tags:
 | 1 | 04/08/2026 | Programa e introdução à análise de decisão | [[2026-08-04 - Programa e análise de decisão]] |
 | 2 | 11/08/2026 | Métodos de avaliação de projetos | [[2026-08-11 - Métodos de avaliação de projetos]] |
 | 3 | 18/08/2026 | Fundamentos de matemática financeira | [[2026-08-18 - Fundamentos de Matemática Financeira]] |
-| 4 | 25/08/2026 | Fundamentos e componentes de cálculos financeiros | [[01 - Matérias/Decisão em Finanças e Introdução à Análise de Risco/Anotações RAW/2026-08-25 - Fundamentos de Matemática Financeira]] |
+| 4 | 25/08/2026 | Fundamentos e componentes de cálculos financeiros | [[01 - Matérias/Decisão em Finanças e Introdução à Análise de Risco/Anotações/2026-08-25 - Fluxo de caixa, valor do dinheiro e taxas de juros]] |
 | 5 | 01/09/2026 | Componentes de cálculos financeiros | [[2026-09-01 - Componentes de cálculos financeiros]] |
 | 6 | 08/09/2026 | Equivalência de fluxos financeiros | [[2026-09-08 - Equivalência de fluxos financeiros]] |
 | 7 | 15/09/2026 | Equivalência de fluxos financeiros | [[2026-09-15 - Equivalência de fluxos financeiros]] |

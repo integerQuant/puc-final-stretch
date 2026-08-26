@@ -53,7 +53,7 @@ tags:
 
 ## Aula atual
 
-- [[01 - Matérias/Decisão em Finanças e Introdução à Análise de Risco/Anotações RAW/2026-08-25 - Fundamentos de Matemática Financeira|2026-08-25 — Aula 04: fundamentos de matemática financeira]]
+- [[01 - Matérias/Decisão em Finanças e Introdução à Análise de Risco/Anotações/2026-08-25 - Fluxo de caixa, valor do dinheiro e taxas de juros|2026-08-25 — Aula 04: fluxo de caixa, valor do dinheiro e taxas de juros]]
 
 ## Eixos de estudo
 
