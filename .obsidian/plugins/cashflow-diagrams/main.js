@@ -254,10 +254,10 @@ function renderCashflow(source, host) {
       class: "cashflow-diagram-node",
     }));
     group.appendChild(svgElement(document, "text", {
-      x,
+      x: x - 8,
       y: axisY + 26,
       class: "cashflow-diagram-period",
-      "text-anchor": "middle",
+      "text-anchor": "end",
     }, flow.period));
     group.appendChild(svgElement(document, "text", {
       x,
