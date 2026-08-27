@@ -21,7 +21,8 @@ Plugins incluídos:
 - **Omnisearch** para busca rápida no vault;
 - **Templater**, apontado para `90 - Templates`;
 - **Linter**, configurado para uso manual, sem alterar notas ao salvar;
-- **Git**, também manual, sem commits ou sincronização automáticos.
+- **Git**, também manual, sem commits ou sincronização automáticos;
+- **Cash Flow Diagrams**, para diagramas financeiros com eixo temporal e setas de entradas e saídas.
 
 As versões armazenadas no vault são compatíveis com o runtime Obsidian 1.13.7 e podem ser atualizadas pela tela de plugins.
 

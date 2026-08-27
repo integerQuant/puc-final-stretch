@@ -32,9 +32,14 @@ Um fluxo de caixa registra entradas e saídas de dinheiro e o instante em que ca
 
 Exemplo: investimento inicial de R$ 1.000,00 seguido de três recebimentos.
 
-```mermaid
-flowchart LR
-    T0["t = 0<br/>− R$ 1.000"] --> T1["t = 1<br/>+ R$ 300"] --> T2["t = 2<br/>+ R$ 400"] --> T3["t = 3<br/>+ R$ 500"]
+```cashflow
+unidade: R$
+eixo: períodos
+legenda: Investimento inicial de R$ 1.000,00 e três recebimentos mensais.
+0 | -1000
+1 | 300
+2 | 400
+3 | 500
 ```
 
 O diagrama não diz, sozinho, se o investimento é bom. Para comparar os valores, todos os fluxos devem ser levados a uma mesma data por uma taxa de juros adequada.

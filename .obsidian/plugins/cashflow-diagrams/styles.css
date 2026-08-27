@@ -1,0 +1,103 @@
+.cashflow-diagram {
+  margin: 1.5rem 0;
+  color: var(--text-normal);
+}
+
+.cashflow-diagram-scroll {
+  overflow-x: auto;
+  padding: 0.75rem;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-m);
+  background: var(--background-primary);
+}
+
+.cashflow-diagram svg {
+  display: block;
+  width: 100%;
+  min-width: 560px;
+  height: auto;
+  color: var(--text-normal);
+  font-family: var(--font-text);
+}
+
+.cashflow-diagram-axis,
+.cashflow-diagram-flow-line,
+.cashflow-diagram-tick {
+  stroke: currentColor;
+  fill: none;
+  vector-effect: non-scaling-stroke;
+  shape-rendering: geometricPrecision;
+}
+
+.cashflow-diagram-axis {
+  stroke-width: 1.4;
+}
+
+.cashflow-diagram-flow-line {
+  stroke-width: 1.65;
+}
+
+.cashflow-diagram-tick {
+  stroke-width: 1;
+  opacity: 0.72;
+}
+
+.cashflow-diagram-arrowhead,
+.cashflow-diagram-node {
+  fill: currentColor;
+}
+
+.cashflow-diagram-axis-label,
+.cashflow-diagram-period,
+.cashflow-diagram-value,
+.cashflow-diagram-description {
+  fill: currentColor;
+}
+
+.cashflow-diagram-axis-label,
+.cashflow-diagram-period {
+  font-size: 14px;
+}
+
+.cashflow-diagram-value {
+  font-size: 15px;
+  font-weight: 650;
+}
+
+.cashflow-diagram-description {
+  fill: var(--text-muted);
+  font-size: 12px;
+}
+
+.cashflow-diagram figcaption {
+  margin-top: 0.6rem;
+  color: var(--text-muted);
+  font-size: var(--font-smallest);
+  text-align: center;
+}
+
+.cashflow-diagram-error {
+  margin: 1rem 0;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--color-red);
+  border-radius: var(--radius-m);
+  color: var(--text-normal);
+  background: rgba(var(--color-red-rgb), 0.08);
+}
+
+.cashflow-diagram-error ul {
+  margin: 0.5rem 0 0;
+}
+
+@media print {
+  .cashflow-diagram-scroll {
+    overflow: visible;
+    border-color: #bbb;
+    background: #fff;
+  }
+
+  .cashflow-diagram svg {
+    min-width: 0;
+    color: #111;
+  }
+}

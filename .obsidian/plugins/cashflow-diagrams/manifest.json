@@ -1,0 +1,10 @@
+{
+  "id": "cashflow-diagrams",
+  "name": "Cash Flow Diagrams",
+  "version": "1.0.0",
+  "minAppVersion": "1.13.7",
+  "description": "Renderiza diagramas financeiros com eixo temporal e setas de entradas e saídas.",
+  "author": "integerQuant",
+  "authorUrl": "https://github.com/integerQuant",
+  "isDesktopOnly": false
+}
