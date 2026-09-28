@@ -38,6 +38,8 @@ tags:
 - [[01 - Matérias/História do Pensamento Econômico/01 - Plano de ensino|Plano de ensino]]
 - [[01 - Matérias/História do Pensamento Econômico/Aulas/00 - Aulas|Aulas e cronograma]]
 - [[01 - Matérias/História do Pensamento Econômico/Anotações/00 - Anotações|Anotações organizadas]]
+- [[01 - Matérias/História do Pensamento Econômico/Revisões/P1 - Resumo completo|P1 — resumo completo das Aulas 1–7]]
+- [[01 - Matérias/História do Pensamento Econômico/Revisões/P1 - Roteiro de estudo das aulas 1 a 4|P1 — estudar as Aulas 1–4]]
 - [[Aula 5 - Parte I|Aula 5 — anotações RAW]]
 - [[01 - Matérias/História do Pensamento Econômico/Leituras/00 - Leituras|Leituras]]
 - [[01 - Matérias/História do Pensamento Econômico/Fichamentos/00 - Fichamentos|Fichamentos]]

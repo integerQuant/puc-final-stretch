@@ -11,6 +11,9 @@ tags:
 
 ## Prova 1
 
+- [[01 - Matérias/História do Pensamento Econômico/Revisões/P1 - Resumo completo|Resumo completo da P1 — Aulas 1–7, mecanismos, fórmulas e comparações]].
+- [[01 - Matérias/História do Pensamento Econômico/Revisões/P1 - Roteiro de estudo das aulas 1 a 4|Aulas 1–4 — roteiro de estudo e perguntas com pistas de resposta]].
+
 - História e método do pensamento econômico.
 - Pensamento clássico.
 - Marx e método dialético.
